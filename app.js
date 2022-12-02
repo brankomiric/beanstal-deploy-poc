@@ -8,7 +8,7 @@ function sleep(ms) {
 
 const threeSec = 3 * 1000;
 const url = `https://bubonic-mnemonic.loca.lt/call-me-maybe`;
-const reqBody = { message: "version v1 call" };
+const reqBody = { message: "version v2 call" };
 
 (async () => {
   while (true) {
